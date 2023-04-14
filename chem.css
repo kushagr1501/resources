@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    /* background-image: linear-gradient(to right, #574fef,#f34bff); */
+}
+body{
+    /* background: #b131d7 */
+    background-image: linear-gradient(to right, #574fef,#f34bff);
+
+}
+.chem{
+    padding: 10px;
+    width: 20rem;
+    height: 30rem;
+    border-radius: 10px;
+    background: rgba( 255, 255, 255, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 18px );
+    -webkit-backdrop-filter: blur( 18px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    z-index: 10;
+    color: whitesmoke;
+
+
+}
+.container{
+    padding: 10px;
+
+    height: 100vh;
+    padding: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+
+
+
+}
+.mech{
+
+    padding: 10px;
+    width: 20rem;
+    height: 30rem;
+    border-radius: 10px;
+    background: rgba( 255, 255, 255, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 18px );
+    -webkit-backdrop-filter: blur( 18px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    z-index: 10;
+    color: whitesmoke;
+}
+.cpp{
+    
+    padding: 10px;
+    width: 20rem;
+    height: 30rem;
+    border-radius: 10px;
+    background: rgba( 255, 255, 255, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 18px );
+    -webkit-backdrop-filter: blur( 18px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    z-index: 10;
+    color: whitesmoke;
+
+}
+.bee{
+    padding: 10px;
+    width: 20rem;
+    height: 30rem;
+    border-radius: 10px;
+    background: rgba( 255, 255, 255, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 18px );
+    -webkit-backdrop-filter: blur( 18px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    z-index: 10;
+    color: whitesmoke;
+
+    
+}
+.btn {
+    background: none;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+    color: whitesmoke;
+    /* background-image: linear-gradient(to right, #3a95c6,#39e8f8);; */
+    background-color: aquamarine;
+    padding: 0.8rem 1.8rem;
+    border-radius: 1rem;
+    cursor: pointer;
+  }
