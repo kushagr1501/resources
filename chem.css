@@ -10,9 +10,9 @@ body{
 
 }
 .chem{
-    padding: 10px;
+   
     width: 20rem;
-    height: 30rem;
+    height: 25rem;
     border-radius: 10px;
     background: rgba( 255, 255, 255, 0.15 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -27,7 +27,8 @@ body{
 .container{
     padding: 10px;
 
-    height: 100vh;
+    height: auto;
+    width:auto;
     padding: auto;
     display: flex;
     flex-wrap: wrap;
@@ -39,9 +40,9 @@ body{
 }
 .mech{
 
-    padding: 10px;
+ 
     width: 20rem;
-    height: 30rem;
+    height: 25rem;
     border-radius: 10px;
     background: rgba( 255, 255, 255, 0.15 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -53,9 +54,9 @@ body{
 }
 .cpp{
     
-    padding: 10px;
+
     width: 20rem;
-    height: 30rem;
+    height: 25rem;
     border-radius: 10px;
     background: rgba( 255, 255, 255, 0.15 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -67,9 +68,9 @@ body{
 
 }
 .bee{
-    padding: 10px;
+  
     width: 20rem;
-    height: 30rem;
+    height: 25rem;
     border-radius: 10px;
     background: rgba( 255, 255, 255, 0.15 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
